@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**irfanahmed812/irfanahmed812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **irfanahmed812/irfanahmed812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🙋🏻‍♂️ Hi, I am MD IRFAN AHMED<br>💼 I am a MERN Stack Developer<br>🌱 I’m currently learning MERN Stack, Next JS & Python Programming<br>💪 I am a hard worker<br>💬 Ask me about MERN Stack<br>⚡ I am trying to keep myself updated with latest technology
